@@ -11,8 +11,10 @@ class CaioFelipe:
         self.languages = ["Python", "C", "C++", "Java"]
         self.learning = ["Docker", "Kubernetes"]
 ```
-</br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=caio-felipee&hide_border=true&theme=transparent&text_color=ffffff&show_icons=true&hide=stars&rank_icon=github)](https://github.com/caio-felipee/caio-felipee)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caio-felipee&exclude_repo=eda-2,trabalho-eda&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&text_color=ffffff&show_icons=true)](https://github.com/caio-felipee/caio-felipee)
+<div>
+<br>
+<a href="https://github-readme-stats.vercel.app/api?username=caio-felipee&hide_border=true&theme=transparent&text_color=ffffff&show_icons=true&hide=stars&rank_icon=github"><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=caio-felipee&hide_border=true&theme=transparent&text_color=ffffff&show_icons=true&hide=stars&rank_icon=github">
+</p></a>
+<b href="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-felipee&exclude_repo=eda-2,trabalho-eda&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&text_color=ffffff&show_icons=true"><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=caio-felipee&exclude_repo=eda-2,trabalho-eda&size_weight=0.5&count_weight=0.5&theme=transparent&hide_border=true&text_color=ffffff&show_icons=true">
+</div>
