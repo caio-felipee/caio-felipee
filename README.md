@@ -3,13 +3,20 @@
 Currently studying Software Engineering at [Universidade de Brasília](https://www.unb.br/), I'm always looking for new challenges and opportunities to learn something new. Passionate about Competitive Programming, I'm preparing for the [ICPC](https://icpc.global/) and in order to do so, I take place in some on-site and on-line contests.
 
 ```py
-class CaioFelipe:
+class SoftwareEngineer:
     def __init__(self):
         self.name = "Caio Felipe"
         self.role = "Software Engineer"
-        self.interests = ["Competitive Programming", "Software Development", "DevOps"]
+        self.languages_spoken = ["pt_BR", "en_US"]
+        self.interests = ["Competitive Programming", "Software Development", "DevOps", "Artificial Intelligence"]
         self.languages = ["Python", "C", "C++", "Java"]
         self.learning = ["Docker", "Kubernetes"]
+
+    def wave(self):
+        print("Thanks for dropping by, hope you find some of my work interesting.")
+    
+me = SoftwareEngineer()
+me.wave()
 ```
 
 <div>
