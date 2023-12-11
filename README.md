@@ -10,7 +10,9 @@ class SoftwareEngineer:
         self.languages_spoken = ["pt_BR", "en_US"]
         self.interests = ["Competitive Programming", "Software Development", "DevOps", "Artificial Intelligence"]
         self.languages = ["Python", "C", "C++", "Java"]
-        self.learning = ["Docker", "Kubernetes"]
+        self.technologies = ["Django", "Django REST API"]
+        self.databases = ["PostgreSQL"]
+        self.learning = ["Docker"]
 
     def wave(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
