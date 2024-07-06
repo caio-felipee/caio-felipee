@@ -1,6 +1,6 @@
 # Hi, I'm Caio! 👋
 
-Currently studying Software Engineering at [Universidade de Brasília](https://www.unb.br/), I'm always looking for new challenges and opportunities to learn something new. Passionate about Competitive Programming, I'm preparing for the [ICPC](https://icpc.global/) and in order to do so, I take place in some on-site and on-line contests.
+Currently studying Software Engineering at [Universidade de Brasília](https://www.unb.br/), I'm always looking for new challenges and opportunities to learn something new. Passionate about Competitive Programming, I'm preparing for the [ICPC](https://icpc.global/) and in order to do so, I take place in some on-site and on-line [contests](https://github.com/caio-felipee/exercicios/blob/main/README.md).
 
 ```py
 class SoftwareEngineer:
