@@ -10,7 +10,7 @@ class SoftwareEngineer:
         self.languages_spoken = ["pt_BR", "en_US"]
         self.interests = ["Competitive Programming", "Software Development", "Artificial Intelligence"]
         self.languages = ["Python", "C", "C++", "Java"]
-        self.technologies = ["Django", "Django REST API"]
+        self.technologies = ["Django", "Django REST API", "FastAPI"]
         self.databases = ["PostgreSQL", "MySQL"]
         self.learning = ["Algorithms", "Data Structures"]
 
