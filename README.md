@@ -8,7 +8,12 @@ class SoftwareEngineer:
         self.name = "Caio Felipe"
         self.role = "Software Engineer"
         self.languages_spoken = ["pt_BR", "en_US"]
-        self.interests = ["Competitive Programming", "Software Development", "Artificial Intelligence", "System Design"]
+        self.interests = [
+            "Competitive Programming",
+            "Web Development",
+            "Artificial Intelligence",
+            "System Design",
+        ]
         self.languages = ["Python", "C", "C++", "Java"]
         self.technologies = ["Django", "Django REST API", "FastAPI"]
         self.databases = ["PostgreSQL", "MySQL"]
