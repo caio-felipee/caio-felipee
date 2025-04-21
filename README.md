@@ -8,11 +8,11 @@ class SoftwareEngineer:
         self.name = "Caio Felipe"
         self.role = "Software Engineer"
         self.languages_spoken = ["pt_BR", "en_US"]
-        self.interests = ["Competitive Programming", "Software Development", "Artificial Intelligence"]
+        self.interests = ["Competitive Programming", "Software Development", "Artificial Intelligence", "System Design"]
         self.languages = ["Python", "C", "C++", "Java"]
         self.technologies = ["Django", "Django REST API", "FastAPI"]
         self.databases = ["PostgreSQL", "MySQL"]
-        self.learning = ["Algorithms", "Data Structures"]
+        self.learning = ["Algorithms", "Data Structures", "System Design Patterns"]
 
     def wave(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
