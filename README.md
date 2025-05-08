@@ -17,7 +17,7 @@ class SoftwareEngineer:
         self.languages = ["Python", "C", "C++", "Java"]
         self.technologies = ["Django", "Django REST API", "FastAPI"]
         self.databases = ["PostgreSQL", "MySQL"]
-        self.learning = ["Algorithms", "Data Structures", "System Design Patterns"]
+        self.learning = ["Algorithms", "Data Structures", "System Design Patterns", "Typescript"]
 
     def wave(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
