@@ -14,10 +14,17 @@ class SoftwareEngineer:
             "Artificial Intelligence",
             "System Design",
         ]
-        self.languages = ["Python", "C", "C++", "Java"]
-        self.technologies = ["Django", "Django REST API", "FastAPI"]
-        self.databases = ["PostgreSQL", "MySQL"]
-        self.learning = ["Algorithms", "Data Structures", "System Design Patterns", "Typescript"]
+        self.languages = ["Python", "C", "C++", "Typescript"]
+
+        self.frameworks = ["Django", "FastAPI", "Fastify"]
+        self.messaging_and_queues = ["RabbitMQ", "BullMQ"]
+        self.databases_and_caching = ["PostgreSQL", "MySQL", "Redis"]
+
+        self.learning = [
+            "Algorithms",
+            "Data Structures",
+            "System Design Patterns",
+        ]
 
     def wave(self):
         print("Thanks for dropping by, hope you find some of my work interesting.")
